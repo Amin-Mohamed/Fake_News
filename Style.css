@@ -1,0 +1,45 @@
+* {margin: 0; padding: 0;}
+
+* {box-sizing: border-box;}
+
+body{
+  font-family: "Times New Roman", Times, serif;
+}
+
+.navbar {
+  background-color: #2B2B2B;
+}
+
+.navbar a {
+  color: aliceblue;
+}
+
+div {
+  margin: 20px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.container {
+  background-color: #464646;
+}
+
+.container > div {
+  background-color: #FEFEFE;
+  padding: 1em;
+  text-align: justify
+}
+
+.container .date {
+  font-size: 13px;
+  color: #8E8C8C;
+}
+
+.container .auther {
+  font-size: 15px;
+  color: #8E8C8C;
+  font-weight: bold;
+}
