@@ -1,30 +1,27 @@
 <?php
 
 declare(strict_types=1);
-// This is the file where you can keep all your functions. Remember to NOT
-// execute/run any functions in this file. Keep it dumb.
-//
 
 /**
- * [sortArrayAsDate description]
+ * [sortArrayAsDate by comparing two arrays]
  * @param  array $a [description]
  * @param  array $b [description]
  * @return bool     [description]
  */
 
-function sortArrayAsDate(array $a, array $b): bool
+function sortArrayAsDate(array $time_1, array $time_2): bool
 {
-    return strtotime($a['date']) > strtotime($b['date']);
+    return strtotime($time_1['date']) < strtotime($time_2['date']);
 }
+
+
 
 /**
  * [Generate a random likes number]
- * @param  int $min [description]
- * @param  int $max [description]
+ * @param  int $min_likes [description]
+ * @param  int $max_likes [description]
  * @return int      [description]
  */
-function randomLikes( int $minLikes = 5, int $maxLikes = 200): int{
-
-    return $news['likes'] = rand($minLikes, $maxLikes);
-
+function randomLikes( int $min_likes = 5, int $max_likes = 200): int{
+    return rand($min_likes, $max_likes);
 };
