@@ -3,17 +3,16 @@
 declare(strict_types=1);
 
 /**
- * [sortArrayAsDate by comparing two arrays]
- * @param  array $a [description]
- * @param  array $b [description]
- * @return bool     [description]
+ * [sortByDate by comparing two arrays]
+ * @param  array $time_1 [description]
+ * @param  array $time_2 [description]
+ * @return bool          [description]
  */
 
-function sortArrayAsDate(array $time_1, array $time_2): bool
+function sortByDate(array $time_1, array $time_2): bool
 {
     return strtotime($time_1['date']) < strtotime($time_2['date']);
 }
-
 
 
 /**
@@ -22,6 +21,8 @@ function sortArrayAsDate(array $time_1, array $time_2): bool
  * @param  int $max_likes [description]
  * @return int      [description]
  */
-function randomLikes( int $min_likes = 5, int $max_likes = 200): int{
+
+function randomLikes( int $min_likes = 5, int $max_likes = 200): int
+{
     return rand($min_likes, $max_likes);
-};
+}

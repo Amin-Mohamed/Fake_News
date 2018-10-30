@@ -3,6 +3,7 @@
 declare(strict_types=1);
 
 // content variables//articles
+
 $standingUp =
 
      "Well, ma, we talked about this, we're not gonna go to the lake, the car's wrecked. Well, Marty,
@@ -100,7 +101,7 @@ $news= [
     'ID' => 3,
     'Author' => 'Bill Murray',
     'title' => 'When Knowledge Conquered Fear',
-    'date' => '13 Jan 2018',
+    'date' => '13 Jan, 2018',
     'Content' => $whenKnowledge
 
     ],
@@ -120,7 +121,7 @@ $news= [
     'ID' => 5,
     'Author' => 'Chris Elliot',
     'title' => 'Hiding in the Light',
-    'date' => '18 aug 2018',
+    'date' => '18 aug 2017',
     'Content' => $inTheLight
 
     ],
