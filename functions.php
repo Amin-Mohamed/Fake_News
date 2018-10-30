@@ -14,7 +14,6 @@ function sortByDate(array $time_1, array $time_2): bool
     return strtotime($time_1['date']) < strtotime($time_2['date']);
 }
 
-
 /**
  * [Generate a random likes number]
  * @param  int $min_likes [description]
