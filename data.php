@@ -3,7 +3,6 @@
 declare(strict_types=1);
 
 // content variables//articles
-
 $standingUp =
 
      "Well, ma, we talked about this, we're not gonna go to the lake, the car's wrecked. Well, Marty,
