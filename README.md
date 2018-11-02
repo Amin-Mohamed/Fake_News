@@ -14,8 +14,7 @@ PHP assignment
 - Start MAMP and go to -> Preferences -> Web Server
 - Set root directory to the your cloned repository
 - Go back to the main menu in MAMP and hit "Start Servers"
-- Open your browser
-- Type in localhost:8888 and you're good to go!
+- Open your browser and type in localhost:8888.
 
 
 **This project is written in:**
