@@ -1,7 +1,7 @@
 # Fake_News
 
 
-https://media.giphy.com/media/IVDYYv6Cto6LS/giphy.gif
+![] (https://media.giphy.com/media/IVDYYv6Cto6LS/giphy.gif)
 
 PHP assignment
 --------------
