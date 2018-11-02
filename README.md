@@ -24,5 +24,6 @@ PHP assignment
 - PHP
 
 **tested by:**
-_ Lautita Dzika
-_ Ali Laith
+
+- Lautita Dzika
+- Ali Laith
