@@ -1,10 +1,12 @@
-# Fake_News
 
 
-![Alt Text] (https://media.giphy.com/media/IVDYYv6Cto6LS/giphy.gif)
+![Alt Text](https://media.giphy.com/media/CYUDHVmioGETu/giphy.gif)
+
 
 PHP assignment
 --------------
+
+# Fake_News
 
 **Installation instructions**
 
