@@ -73,105 +73,105 @@ $ewlectricBoy =
 
 
 // News array
-$news= [
+$articles= [
 
     [
 
     'ID' => 1,
-    'Author' => 'Andie MacDowell',
+    'author' => 'Andie MacDowell',
     'title' => 'Standing Up in the Milky Way',
     'date' => '18 Oct 2018' ,
-    'Content' => $standingUp
+    'content' => $standingUp
 
     ],
 
     [
 
     'ID' => 2,
-    'Author' => 'Andie MacDowel',
+    'author' => 'Andie MacDowel',
     'title' => 'Some of the Things That Molecules Do',
     'date' => '9 Apr 2018',
-    'Content' => $someOfThe
+    'content' => $someOfThe
 
     ],
 
     [
 
     'ID' => 3,
-    'Author' => 'Bill Murray',
+    'author' => 'Bill Murray',
     'title' => 'When Knowledge Conquered Fear',
     'date' => '13 Jan, 2018',
-    'Content' => $whenKnowledge
+    'content' => $whenKnowledge
 
     ],
 
     [
 
     'ID' => 4,
-    'Author' => 'Bill Murray',
+    'author' => 'Bill Murray',
     'title' => ' Sky Full of Ghosts',
     'date' => '19 Jul 2018',
-    'Content' => $skyFull
+    'content' => $skyFull
 
     ],
 
     [
 
     'ID' => 5,
-    'Author' => 'Chris Elliot',
+    'author' => 'Chris Elliot',
     'title' => 'Hiding in the Light',
     'date' => '18 aug 2017',
-    'Content' => $inTheLight
+    'content' => $inTheLight
 
     ],
 
     [
 
     'ID' => 6,
-    'Author' => 'Chris Elliot',
+    'author' => 'Chris Elliot',
     'title' => 'Deeper, Deeper, Deeper Still',
     'date' => '14 Oct 2018',
-    'Content' => $deeper
+    'content' => $deeper
 
     ],
 
     [
 
     'ID' => 7,
-    'Author' => 'Stephen Tobowsky',
+    'author' => 'Stephen Tobowsky',
     'title' => 'He Clean Room',
     'date' => '3 Nov 2018',
-    'Content' => $cleanRoom
+    'content' => $cleanRoom
 
     ],
 
     [
 
     'ID' => 8,
-    'Author' => 'Stephen Tobowsky',
+    'author' => 'Stephen Tobowsky',
     'title' => 'Sisters of the Sun',
     'date' => '1 Jun 2018',
-    'Content' => $sisters
+    'content' => $sisters
 
     ],
 
     [
 
     'ID' => 9,
-    'Author' => 'Emilio Estevez',
+    'author' => 'Emilio Estevez',
     'title' => 'The Lost Worlds of Planet Earth',
     'date' => '15 Feb 2018',
-    'Content' => $lostWorlds
+    'content' => $lostWorlds
 
     ],
 
     [
 
      'ID' => 10,
-     'Author' => 'Emilio Estevez',
+     'author' => 'Emilio Estevez',
      'title' => 'The Electric Boy',
      'date' => '7 Mar 2018',
-     'Content' => $ewlectricBoy
+     'content' => $ewlectricBoy
 
     ],
 
